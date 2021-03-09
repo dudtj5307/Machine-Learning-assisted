@@ -1,2 +1,1 @@
-# Machine-Learning-assisted
-# assisted for digital PCR &amp; droplet RPA
+# Machine-Learning-assisted for digital PCR &amp; droplet RPA
